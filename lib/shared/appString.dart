@@ -1,5 +1,5 @@
 class AppString {
-  static const splashText = "MarketMingle";
+  static const splashText = "A&M SHOP";
   static const signupTxt1 = "Create Account";
   static const signupTxt2 =  "Please enter valid information to access your account.";
   static const registerTxt = "Register";
@@ -14,7 +14,7 @@ class AppString {
   static const loginTxt4 =  "Don't have an account?";
   static const loginTxt5 = "Create account";
   static const loginTxt6 = "Login now !";
-  static const onboardingTxt1 =  "Welcome to our E-commerce App";
+  static const onboardingTxt1 =  "Welcome A&M SHOP ";
   static const onboardingTxt2 = "Discover a world of convenience and endless choices Get ready to experience the best of online shopping right at your fingertips Start shopping now and make the most of this special offer!";
   static const onboardingTxt3 =  "Get IT Delivered";
   static const onboardingTxt4 =   "We're thrilled to have you on board! Explore our wide range of products tailored just for you. Get ready to experience seamless shopping with exclusive deals and personalized recommendations.";
