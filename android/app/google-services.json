@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655317403621",
+    "project_id": "e-commerce-iti-bff04",
+    "storage_bucket": "e-commerce-iti-bff04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655317403621:android:095c179de9612a5488910c",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QdxTRzgoWYYxMcZIxgKwxsiXrPVZ0yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
